@@ -1,7 +1,9 @@
 # Chronos Documentation
 
+This application allows you to create calendars. <br>
+In each calendar, you can add events and view them. You can also share calendars with other users. Unregistered users can view public calendars.
+
 ## Chronos Backend
-It makes registration, posting, commenting, liking and adding categories to posts possible.
 
 ### Requirements
 - NodeJS
@@ -16,7 +18,6 @@ It makes registration, posting, commenting, liking and adding categories to post
 5. API will run on port 3001
 
 ## Chronos Frontend
-It is frontend part of this project.
 
 ### Requirements
 - NodeJS
